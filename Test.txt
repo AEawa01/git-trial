@@ -1,2 +1,3 @@
 Hey
-Doing some changes
+Doing some changes for the second commit 
+. 
